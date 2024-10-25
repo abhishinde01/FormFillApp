@@ -4,9 +4,13 @@
     <p>Please fill in this form</p>
     <hr>
     <br>
-
+	
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <br>
+    
+    <label for="Gender"><b>Gender</b></label>
+    <input type="text" placeholder="Select Gender" name="gender" id="gender" required>
     <br>
 
     <label for="aadhar"><b>Aadhar</b></label>
