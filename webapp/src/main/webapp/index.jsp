@@ -10,7 +10,7 @@
     <br>
     
     <label for="Gender"><b>Gender</b></label>
-    <input type="text" placeholder="Select Gender" name="gender" id="gender" required>
+    <input type="text" placeholder="Enter Gender" name="gender" id="gender" required>
     <br>
 
     <label for="aadhar"><b>Aadhar</b></label>
